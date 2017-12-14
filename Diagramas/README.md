@@ -15,5 +15,5 @@
 * Dibujos
 
 ---
-![dibujos chuecos de Turro.jpg](/Diagramas/dibujos chuecos de Turro.jpg)
+![dibujos chuecos de Turro.jpg](/Diagramas/dibujos%20chuecos%20de%20Turro.jpg)
 ---
