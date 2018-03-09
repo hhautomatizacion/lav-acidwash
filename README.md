@@ -56,8 +56,6 @@
 		* Modelos de componentes que se hayan probado
 
 ---
-![dibujos chuecos de Turro.jpg](/Diagramas/dibujos%20chuecos%20de%20Turro.jpg)
----
 ![2013-08-19 11.52.15.jpg](/Fotos/2013-08-19%2011.52.15.jpg)
 ---
 ![2013-08-19 11.52.16.jpg](/Fotos/2013-08-19%2011.52.16.jpg)
@@ -91,4 +89,24 @@
 ![DSC03409.JPG](/Fotos/DSC03409.JPG)
 ---
 ![DSC03410.JPG](/Fotos/DSC03410.JPG)
+---
+![edicion.png](/Fotos/edicion.png)
+---
+![inactivo.png](/Fotos/inactivo.png)
+---
+![menu.png](/Fotos/menu.png)
+---
+![teclaA.png](/Fotos/teclaA.png)
+---
+![teclaB.png](/Fotos/teclaB.png)
+---
+![teclaEsc.png](/Fotos/teclaEsc.png)
+---
+![teclaMas.png](/Fotos/teclaMas.png)
+---
+![teclaMenos.png](/Fotos/teclaMenos.png)
+---
+![teclaOk.png](/Fotos/teclaOk.png)
+---
+![termicomotor.png](/Fotos/termicomotor.png)
 ---
