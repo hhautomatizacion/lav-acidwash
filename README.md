@@ -56,6 +56,8 @@
 		* Modelos de componentes que se hayan probado
 
 ---
+![00000032.jpg](/Fotos/00000032.jpg)
+---
 ![2013-08-19 11.52.15.jpg](/Fotos/2013-08-19%2011.52.15.jpg)
 ---
 ![2013-08-19 11.52.16.jpg](/Fotos/2013-08-19%2011.52.16.jpg)
